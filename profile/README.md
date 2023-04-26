@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="#" alt="circle-logo" width="10%" />
+    <img src="https://user-images.githubusercontent.com/69577224/234707233-24178851-6e86-49f1-915a-faf78263e736.png" alt="circle-logo" width="10%" />
     <h1 align="center">Circle 🌐</h1>
     <h3 align="center">Growing With the Community</h3>
 </p>
