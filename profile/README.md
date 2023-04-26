@@ -12,13 +12,6 @@ We welcome contributions from anyone who shares our vision for a more decentrali
 2. Make your changes on a new branch
 3. Submit a pull request
 
-## Installation
-To install Circle locally, follow these steps:
-
-1. Clone the repository
-2. Install dependencies with ```npm install```
-3. Start the development server with ```npm run dev```
-
 ## Documentation
 For more information on Circle, please refer to our documentation here.
 
